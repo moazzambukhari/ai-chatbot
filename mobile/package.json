@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-native-axios": "^0.17.1"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "^20.2.0"
+  }
+}

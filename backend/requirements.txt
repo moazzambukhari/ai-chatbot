@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+greenlet
+passlib[bcrypt]
+bcrypt
+python-jose[cryptography]
+python-multipart
+email-validator
+google-genai
+pydantic
